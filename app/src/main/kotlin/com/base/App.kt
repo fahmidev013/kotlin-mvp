@@ -7,9 +7,7 @@ import com.base.di.module.AppModule
 import com.facebook.drawee.backends.pipeline.Fresco
 
 /**
- * Created by Burak Eregar on 19.05.2017.
- * burakeregar@gmail.com
- * https://github.com/burakeregar
+* Created by Fahmi Hakim on 23.05.2017.
  */
 class App: Application() {
 

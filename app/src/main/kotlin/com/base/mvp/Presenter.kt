@@ -1,9 +1,7 @@
 package com.base.mvp
 
 /**
- * Created by Burak Eregar on 22.05.2017.
- * burakeregar@gmail.com
- * https://github.com/burakeregar
+* Created by Fahmi Hakim on 23.05.2017.
  */
 interface Presenter<V : BaseView> {
 

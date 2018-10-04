@@ -17,9 +17,7 @@ import retrofit2.Retrofit
 import javax.inject.Singleton
 
 /**
- * Created by Burak Eregar on 19.05.2017.
- * burakeregar@gmail.com
- * https://github.com/burakeregar
+* Created by Fahmi Hakim on 23.05.2017.
  */
 @Singleton
 @Component(modules = arrayOf(AppModule::class, RetrofitModule::class, ApiModule::class, OkHttpModule::class))

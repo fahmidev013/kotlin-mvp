@@ -1,8 +1,6 @@
 package com.base.event
 
 /**
- * Created by Burak Eregar on 27.06.2017.
- * burakeregar@gmail.com
- * https://github.com/burakeregar
+* Created by Fahmi Hakim on 23.05.2017.
  */
 class DefaultEvent

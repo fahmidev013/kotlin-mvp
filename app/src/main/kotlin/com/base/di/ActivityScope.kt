@@ -1,9 +1,7 @@
 package com.base.di
 
 /**
- * Created by Burak Eregar on 20.05.2017.
- * burakeregar@gmail.com
- * https://github.com/burakeregar
+ * Created by Fahmi Hakim on 23.05.2017.
  */
 import javax.inject.Scope
 

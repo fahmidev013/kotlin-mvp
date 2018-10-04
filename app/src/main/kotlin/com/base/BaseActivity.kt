@@ -11,9 +11,7 @@ import org.greenrobot.eventbus.Subscribe
 import org.jetbrains.anko.toast
 
 /**
- * Created by Burak Eregar on 20.05.2017.
- * burakeregar@gmail.com
- * https://github.com/burakeregar
+ * Created by Fahmi Hakim on 23.05.2017.
  */
 abstract class BaseActivity: AppCompatActivity(), BaseView {
 

@@ -3,9 +3,7 @@ package com.base.mvp
 import java.lang.ref.WeakReference
 
 /**
- * Created by Burak Eregar on 20.05.2017.
- * burakeregar@gmail.com
- * https://github.com/burakeregar
+ * Created by Fahmi Hakim on 23.05.2017.
  */
 
 open class BasePresenter<V : BaseView>: Presenter<V> {

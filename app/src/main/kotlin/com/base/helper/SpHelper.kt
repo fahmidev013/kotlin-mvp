@@ -4,9 +4,7 @@ import android.content.SharedPreferences
 import com.google.gson.Gson
 
 /**
- * Created by Burak Eregar on 17.06.2017.
- * burakeregar@gmail.com
- * https://github.com/burakeregar
+* Created by Fahmi Hakim on 23.05.2017.
  */
 class SpHelper constructor(var sharedPreferences: SharedPreferences, var gson: Gson) {
 

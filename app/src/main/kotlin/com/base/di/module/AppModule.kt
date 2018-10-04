@@ -11,9 +11,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder
 
 /**
- * Created by Burak Eregar on 19.05.2017.
- * burakeregar@gmail.com
- * https://github.com/burakeregar
+* Created by Fahmi Hakim on 23.05.2017.
  */
 @Module
 class AppModule(val application: Application) {
