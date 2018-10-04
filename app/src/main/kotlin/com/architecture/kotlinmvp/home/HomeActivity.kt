@@ -2,9 +2,9 @@ package com.architecture.kotlinmvp.home
 
 import android.os.Bundle
 import android.support.v7.widget.LinearLayoutManager
+import com.architecture.kotlinmvp.R
+import com.architecture.kotlinmvp.home.di.DaggerHomeActivityComponent
 import com.base.BaseActivity
-import com.burakeregar.kotlinmvparchitecture.R
-import com.burakeregar.kotlinmvparchitecture.home.di.DaggerHomeActivityComponent
 import com.architecture.kotlinmvp.home.di.HomeActivityModule
 import com.architecture.kotlinmvp.home.model.MarsPhotos
 import com.architecture.kotlinmvp.home.model.MarsItem

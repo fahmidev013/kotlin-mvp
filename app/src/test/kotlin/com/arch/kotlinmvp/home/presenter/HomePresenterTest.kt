@@ -17,9 +17,7 @@ import retrofit2.Callback
 import retrofit2.Response
 
 /**
-* Created by Burak Eregar on 13.11.2017.
-* burakeregar@gmail.com
-* https://github.com/burakeregar
+* Created by Fahmi Hakim on 23.05.2017.
 */
 
 class HomePresenterTest {
