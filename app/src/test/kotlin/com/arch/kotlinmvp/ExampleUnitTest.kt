@@ -1,4 +1,4 @@
-package com.burakeregar.kotlinmvparchitecture
+package com.arch.kotlinmvp
 
 import org.junit.Test
 

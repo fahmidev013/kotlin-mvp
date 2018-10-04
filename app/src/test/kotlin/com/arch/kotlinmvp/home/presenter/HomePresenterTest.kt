@@ -1,4 +1,4 @@
-package com.burakeregar.kotlinmvparchitecture.home.presenter
+package com.arch.kotlinmvp.home.presenter
 
 import com.architecture.kotlinmvp.api.Endpoints
 import com.architecture.kotlinmvp.home.model.MarsPhotos
