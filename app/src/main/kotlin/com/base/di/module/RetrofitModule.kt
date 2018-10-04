@@ -1,6 +1,6 @@
 package com.base.di.module
 
-import com.burakeregar.kotlinmvparchitecture.BuildConfig
+import com.architecture.kotlinmvp.BuildConfig
 import dagger.Module
 import dagger.Provides
 import okhttp3.OkHttpClient
