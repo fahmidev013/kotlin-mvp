@@ -5,9 +5,7 @@ import retrofit2.Call
 import retrofit2.http.GET
 
 /**
- * Created by Burak Eregar on 23.05.2017.
- * burakeregar@gmail.com
- * https://github.com/burakeregar
+ * Created by Fahmi Hakim on 23.05.2017.
  */
 interface Endpoints {
     @GET("rovers/curiosity/photos?sol=50&page=5&api_key=DEMO_KEY")

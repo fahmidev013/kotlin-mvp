@@ -9,9 +9,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 import javax.inject.Singleton
 
 /**
- * Created by Burak Eregar on 23.05.2017.
- * burakeregar@gmail.com
- * https://github.com/burakeregar
+ * Created by Fahmi Hakim on 23.05.2017.
  */
 @Module
 class RetrofitModule {

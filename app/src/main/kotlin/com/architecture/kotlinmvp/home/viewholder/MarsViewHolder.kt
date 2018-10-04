@@ -7,9 +7,7 @@ import kotlinx.android.synthetic.main.row_mars.view.*
 import org.greenrobot.eventbus.EventBus
 
 /**
- * Created by Burak Eregar on 23.05.2017.
- * burakeregar@gmail.com
- * https://github.com/burakeregar
+ * Created by Fahmi Hakim on 23.05.2017.
  */
 class MarsViewHolder(itemView: View?) : GenericViewHolder<Any>(itemView) {
     lateinit var item: MarsItem
