@@ -7,7 +7,7 @@ import com.base.di.module.AppModule
 import com.base.di.module.OkHttpModule
 import com.base.di.module.RetrofitModule
 import com.base.helper.SpHelper
-import com.burakeregar.kotlinmvparchitecture.api.Endpoints
+import com.architecture.kotlinmvp.api.Endpoints
 import com.google.gson.Gson
 import dagger.Component
 import okhttp3.Cache
@@ -28,7 +28,7 @@ interface AppComponent {
     fun gson(): Gson
     fun resources(): Resources
     fun retrofit():Retrofit
-    fun endpoints():Endpoints
+    fun endpoints(): Endpoints
     fun cache(): Cache
     fun client(): OkHttpClient
     fun loggingInterceptor(): HttpLoggingInterceptor

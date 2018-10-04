@@ -1,16 +1,16 @@
-package com.burakeregar.kotlinmvparchitecture.home
+package com.architecture.kotlinmvp.home
 
 import android.os.Bundle
 import android.support.v7.widget.LinearLayoutManager
 import com.base.BaseActivity
 import com.burakeregar.kotlinmvparchitecture.R
 import com.burakeregar.kotlinmvparchitecture.home.di.DaggerHomeActivityComponent
-import com.burakeregar.kotlinmvparchitecture.home.di.HomeActivityModule
-import com.burakeregar.kotlinmvparchitecture.home.model.MarsPhotos
-import com.burakeregar.kotlinmvparchitecture.home.model.MarsItem
-import com.burakeregar.kotlinmvparchitecture.home.presenter.HomePresenter
-import com.burakeregar.kotlinmvparchitecture.home.presenter.HomeView
-import com.burakeregar.kotlinmvparchitecture.home.viewholder.MarsViewHolder
+import com.architecture.kotlinmvp.home.di.HomeActivityModule
+import com.architecture.kotlinmvp.home.model.MarsPhotos
+import com.architecture.kotlinmvp.home.model.MarsItem
+import com.architecture.kotlinmvp.home.presenter.HomePresenter
+import com.architecture.kotlinmvp.home.presenter.HomeView
+import com.architecture.kotlinmvp.home.viewholder.MarsViewHolder
 import com.burakeregar.easiestgenericrecycleradapter.base.GenericAdapterBuilder
 import com.burakeregar.easiestgenericrecycleradapter.base.GenericRecyclerAdapter
 import kotlinx.android.synthetic.main.home_activity.*

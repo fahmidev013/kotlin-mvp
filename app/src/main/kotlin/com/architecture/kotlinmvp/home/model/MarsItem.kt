@@ -1,4 +1,4 @@
-package com.burakeregar.kotlinmvparchitecture.home.model
+package com.architecture.kotlinmvp.home.model
 
 import com.google.gson.annotations.SerializedName
 

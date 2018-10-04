@@ -1,6 +1,6 @@
 package com.base.di.module
 
-import com.burakeregar.kotlinmvparchitecture.api.Endpoints
+import com.architecture.kotlinmvp.api.Endpoints
 import dagger.Module
 import dagger.Provides
 import retrofit2.Retrofit

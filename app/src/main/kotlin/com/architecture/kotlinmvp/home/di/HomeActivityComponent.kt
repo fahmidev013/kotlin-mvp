@@ -1,8 +1,8 @@
-package com.burakeregar.kotlinmvparchitecture.home.di
+package com.architecture.kotlinmvp.home.di
 
 import com.base.di.ActivityScope
 import com.base.di.component.AppComponent
-import com.burakeregar.kotlinmvparchitecture.home.HomeActivity
+import com.architecture.kotlinmvp.home.HomeActivity
 
 import dagger.Component
 

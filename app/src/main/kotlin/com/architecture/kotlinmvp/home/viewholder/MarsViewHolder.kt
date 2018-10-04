@@ -1,7 +1,7 @@
-package com.burakeregar.kotlinmvparchitecture.home.viewholder
+package com.architecture.kotlinmvp.home.viewholder
 
 import android.view.View
-import com.burakeregar.kotlinmvparchitecture.home.model.MarsItem
+import com.architecture.kotlinmvp.home.model.MarsItem
 import com.burakeregar.easiestgenericrecycleradapter.base.GenericViewHolder
 import kotlinx.android.synthetic.main.row_mars.view.*
 import org.greenrobot.eventbus.EventBus

@@ -1,8 +1,8 @@
-package com.burakeregar.kotlinmvparchitecture.home.di
+package com.architecture.kotlinmvp.home.di
 
 import com.base.di.ActivityScope
-import com.burakeregar.kotlinmvparchitecture.api.Endpoints
-import com.burakeregar.kotlinmvparchitecture.home.presenter.HomePresenter
+import com.architecture.kotlinmvp.api.Endpoints
+import com.architecture.kotlinmvp.home.presenter.HomePresenter
 import dagger.Module
 import dagger.Provides
 

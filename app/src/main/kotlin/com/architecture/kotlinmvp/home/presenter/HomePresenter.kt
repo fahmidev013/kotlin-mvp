@@ -1,8 +1,8 @@
-package com.burakeregar.kotlinmvparchitecture.home.presenter
+package com.architecture.kotlinmvp.home.presenter
 
 import com.base.mvp.BasePresenter
-import com.burakeregar.kotlinmvparchitecture.api.Endpoints
-import com.burakeregar.kotlinmvparchitecture.home.model.MarsPhotos
+import com.architecture.kotlinmvp.api.Endpoints
+import com.architecture.kotlinmvp.home.model.MarsPhotos
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

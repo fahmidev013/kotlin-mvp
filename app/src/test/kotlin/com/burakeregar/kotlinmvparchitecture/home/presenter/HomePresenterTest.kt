@@ -1,14 +1,15 @@
 package com.burakeregar.kotlinmvparchitecture.home.presenter
 
-import com.burakeregar.kotlinmvparchitecture.api.Endpoints
-import com.burakeregar.kotlinmvparchitecture.home.model.MarsPhotos
+import com.architecture.kotlinmvp.api.Endpoints
+import com.architecture.kotlinmvp.home.model.MarsPhotos
+import com.architecture.kotlinmvp.home.presenter.HomePresenter
+import com.architecture.kotlinmvp.home.presenter.HomeView
 import com.nhaarman.mockito_kotlin.any
 import com.nhaarman.mockito_kotlin.doAnswer
 import com.nhaarman.mockito_kotlin.mock
 import org.junit.Test
 
 import org.junit.Before
-import org.mockito.Mockito
 import org.mockito.Mockito.`when`
 import org.mockito.Mockito.verify
 import retrofit2.Call

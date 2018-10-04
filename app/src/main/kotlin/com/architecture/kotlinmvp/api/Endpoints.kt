@@ -1,6 +1,6 @@
-package com.burakeregar.kotlinmvparchitecture.api
+package com.architecture.kotlinmvp.api
 
-import com.burakeregar.kotlinmvparchitecture.home.model.MarsPhotos
+import com.architecture.kotlinmvp.home.model.MarsPhotos
 import retrofit2.Call
 import retrofit2.http.GET
 
